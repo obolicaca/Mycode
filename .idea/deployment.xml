@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="train" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="train">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/ChineseNER-pytorch-main" local="$PROJECT_DIR$/../ChineseNER-pytorch-main" web="/" />
+            <mapping deploy="/code/distilbert_ner" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/code/ebook" local="F:/ebook/《基于BERT模型的自然语言处理实战》源代码" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

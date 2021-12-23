@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ChineseNER-pytorch-main/.idea/ChineseNER-pytorch-main.iml" filepath="$PROJECT_DIR$/../ChineseNER-pytorch-main/.idea/ChineseNER-pytorch-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mycode.iml" filepath="$PROJECT_DIR$/.idea/Mycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ner-ncbi-master/.idea/ner-ncbi-master.iml" filepath="$PROJECT_DIR$/../ner-ncbi-master/.idea/ner-ncbi-master.iml" />
+      <module fileurl="file://G:/task/.idea/task.iml" filepath="G:/task/.idea/task.iml" />
+      <module fileurl="file://F:/ebook/《基于BERT模型的自然语言处理实战》源代码/.idea/整理.iml" filepath="F:/ebook/《基于BERT模型的自然语言处理实战》源代码/.idea/整理.iml" />
+    </modules>
+  </component>
+</project>

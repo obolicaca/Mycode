@@ -1,0 +1,2 @@
+1.BC4CHEMD和BC5CDR-chem两个数据集重新跑DistilBert做NER
+2.调整学习率(1e-5 ~ 5e-5)，每次50轮，保存每个轮次的输出结果
