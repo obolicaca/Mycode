@@ -17,3 +17,8 @@ class NER(nn.Module):
         out = self.distilbert(input_ids = input_ids , labels = labels, attention_mask = attention_mask)
         return out
 
+if __name__ == "__main__":
+    model = NER(3)
+    print(model)
+
+
